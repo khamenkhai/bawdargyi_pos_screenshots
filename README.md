@@ -1,4 +1,4 @@
-# 🍽️ Restaurant POS App
+# 🍽️ Bawdargyi Restaurant POS App
 
 A sleek and modern Point-of-Sale (POS) system built for restaurants, designed to handle table management, staff login, ordering, and checkout with ease. Built with 💙 Flutter.
 
@@ -9,7 +9,7 @@ A sleek and modern Point-of-Sale (POS) system built for restaurants, designed to
 ### 1. 🚀 Splash Screen
 The entry point to the app, showcasing your brand while loading necessary resources.
 
-![Splash Screen](screenshots/splash.png)
+![Splash Screen]![image alt]([screenshots/splash.png](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true))
 
 ---
 
@@ -86,10 +86,9 @@ A success screen confirms the order has been placed — ready for kitchen proces
 
 ## ⚙️ Tech Stack
 - Flutter (Front-end)
-- BLoC for state management
-- Laravel/Supabase backend (optional)
-- SQLite or Remote DB
-- Clean Architecture
+- BLoC(Cubit) for state management
+- Laravel backend
+- MVC
 
 ---
 
