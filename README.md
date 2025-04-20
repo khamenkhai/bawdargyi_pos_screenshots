@@ -1,5 +1,7 @@
 # 🍽️ Bawdargyi Restaurant POS App
 
+(https://bawdargyi.yawjapan.com/)
+
 A sleek and modern Point-of-Sale (POS) system built for restaurants, designed to handle table management, staff login, ordering, and checkout with ease. Built with 💙 Flutter.
 
 ---
@@ -74,13 +76,6 @@ A success screen confirms the order has been placed — ready for kitchen proces
 
 ![Checkout Success]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/10.checkout_success.png?raw=true)
 
----
-
-## 🧑‍🍳 Ideal For
-- Restaurants
-- Cafés
-- Food Courts
-- Any business with table-side ordering
 
 ---
 
