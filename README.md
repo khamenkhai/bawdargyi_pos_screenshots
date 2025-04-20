@@ -9,7 +9,7 @@ A sleek and modern Point-of-Sale (POS) system built for restaurants, designed to
 ### 1. 🚀 Splash Screen
 The entry point to the app, showcasing your brand while loading necessary resources.
 
-![Splash Screen]![image alt]([screenshots/splash.png](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true))
+![Splash Screen]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
