@@ -16,63 +16,63 @@ The entry point to the app, showcasing your brand while loading necessary resour
 ### 2. 🔐 Staff Login Selection
 Staff accounts are listed visually for easy selection — optimized for quick use in a restaurant setting.
 
-![Staff Selection](screenshots/login_selection.png)
+![Staff Selection]![image alt]()
 
 ---
 
 ### 3. 🔑 Password Entry
 After selecting a staff account, the staff member enters their password to log in securely.
 
-![Password Entry](screenshots/login_password.png)
+![Password Entry]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/3.staff_login.png?raw=true)
 
 ---
 
 ### 4. 🍽️ Tables Screen
 A visual display of restaurant tables, showing availability and active orders.
 
-![Tables Screen](screenshots/tables.png)
+![Tables Screen]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/4.table.png?raw=true)
 
 ---
 
 ### 5. 🛍️ Product Menu
 All available dishes and products are displayed with categories and images.
 
-![Products Screen](screenshots/products.png)
+![Products Screen]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
 ### 6. ➕ Add Product Dialog
 Easily add a product to the order with quantity selection and customization options.
 
-![Add Product Dialog](screenshots/add_product.png)
+![Add Product Dialog]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
 ### 7. ✅ Product Added to Cart
 Selected products are shown in the cart with quantities and prices.
 
-![Cart Preview](screenshots/cart_with_items.png)
+![Cart Preview]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
 ### 8. 🧾 Create Order
 Once products are selected, they are grouped into an order and ready for checkout.
 
-![Order Summary](screenshots/order_cart.png)
+![Order Summary]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
 ### 9. 💳 Checkout with Payment Method
 Multiple payment options like cash, card, or online methods are available.
 
-![Checkout Screen](screenshots/checkout.png)
+![Checkout Screen]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
 ### 10. 🎉 Checkout Success
 A success screen confirms the order has been placed — ready for kitchen processing!
 
-![Checkout Success](screenshots/checkout_success.png)
+![Checkout Success]![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/1.splash.png?raw=true)
 
 ---
 
