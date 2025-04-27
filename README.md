@@ -20,12 +20,6 @@ Staff accounts are listed visually for easy selection — optimized for quick us
 
 ---
 
-### 🔑 Password Entry
-After selecting a staff account, the staff member enters their password to log in securely.
-
-![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/3.staff_login.png?raw=true)
-
----
 
 ### 🍽️ Tables Screen
 A visual display of restaurant tables, showing availability and active orders.
