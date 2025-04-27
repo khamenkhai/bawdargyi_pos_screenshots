@@ -64,17 +64,24 @@ Once products are selected, they are grouped into an order and ready for checkou
 
 ---
 
+### 🔑 Password Entry
+Before checkout an order , the staff member enters their password to log in securely.
+
+![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/9.add_password_to_checkout_confirm.png?raw=true)
+
+---
+
 ### 💳 Checkout with Payment Method
 Multiple payment options like cash, card, or online methods are available.
 
-![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/9.choose_payment.png?raw=true)
+![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/9.choose_payent.png?raw=true)
 
 ---
 
 ### 🎉 Checkout Success
 A success screen confirms the order has been placed — ready for kitchen processing!
 
-![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/10.checkout_success.png?raw=true)
+![image alt](https://github.com/khamenkhai/bawdargyi_pos_screenshots/blob/main/images/checkout_success.png?raw=true)
 
 
 ---
