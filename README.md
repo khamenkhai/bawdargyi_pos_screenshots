@@ -2,8 +2,6 @@
 
 (https://bawdargyi.yawjapan.com/)
 
-A sleek and modern Point-of-Sale (POS) system built for restaurants, designed to handle table management, staff login, ordering, and checkout with ease. Built with 💙 Flutter.
-
 ---
 
 ## 📱 Features Preview
